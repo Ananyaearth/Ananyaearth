@@ -1,49 +1,38 @@
-# Hi there, I'm Ananya 👋
+# Hi, I'm Ananya Verma 👋
 
-Welcome to my GitHub profile! I'm an M.Tech student in my first year at the **Indian Institute of Information Technology, Lucknow**, with a strong passion for **Artificial Intelligence** and **Machine Learning**.
+I'm a first-year **M.Tech student** at the **Indian Institute of Information Technology, Lucknow**, specializing in **Artificial Intelligence** and **Machine Learning**. I’m passionate about pushing the boundaries of **Deep Learning** and **Large Language Models (LLMs)** to craft intelligent, impactful solutions, backed by my **B.Tech in Computer Science** from the University of Lucknow.
 
 ## 👩‍💻 About Me
 
-- 🎓 I have completed my **B.Tech** and gained a solid foundation in engineering concepts.
-- 💻 I am proficient in:
-  - **Programming Languages**: C++, Python, HTML, CSS, JavaScript
-  - **Technologies**: TensorFlow, NumPy, OpenCV
-- 🌱 I am currently learning and exploring:
-  - **MLOps** and its integration into AI workflows
-  - Advanced **Deep Learning** concepts
-  - Tools and techniques for becoming an **AI Engineer**
-- 🎯 **Goal**: To contribute to cutting-edge projects in **AI/ML** and make a meaningful impact in the field.
+- 🎓 **Education**:
+  - M.Tech, Computer Science (AI & ML), IIIT Lucknow (2024–2026, GPA: 9.04/10.0)
+  - B.Tech, Computer Science, University of Lucknow (2020–2024, GPA: 9.46/10.0)
+- 💻 **Skills**:
+  - **Languages**: Python, C/C++, HTML, CSS, JavaScript
+  - **Deep Learning**: Crafting neural networks (CNNs, RNNs, GANs, Transformers) for cutting-edge Computer Vision and NLP with TensorFlow, PyTorch, and Scikit-Learn
+  - **LLMs**: Mastering pretraining, fine-tuning, prompt engineering, and deployment (Hugging Face, LangChain, RAG) with Transformer architectures
+  - **Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Plotly, PostgreSQL
+  - **MLOps**: Git, GitHub, Linux, MLflow, CI/CD
+  - **Research**: LaTeX, Research Writing
+- 🌱 **Exploring**: MLOps, advanced Deep Learning, and LLM-driven AI innovations
+- 🎯 **Goal**: Build transformative AI systems with Deep Learning, Computer Vision and LLMs
 
-## 🔭 Projects
+## 🏆 Achievements
 
-Here are some of the projects I've been working on:
-
-- **Beats and Books Collaboration Project**  
-  *Welcome to Beats and Books! Seamlessly bridging literary and musical worlds, our app suggests songs based on your favorite books. Dive into '1984' or 'Harry Potter,' our platform provides tailored recommendations to enhance your reading experience.*  
-  [GitHub Repository](https://github.com/Ananyaearth/Beats-and-Books-collaboration-project-)
-
-- **Fake Currency Detection Using Image Processing**  
-  *Detect counterfeit currency using image processing. Analyzes features like transparent strips & patterns, comparing real vs. fake notes to determine authenticity.*  
-  [GitHub Repository](https://github.com/Ananyaearth/FAKE-CURRENCY-DETECTION-USING-IMAGE-PROCESSING)
-
-- **AAAVI Chatbot**  
-  *AAAVI (Artificial Assistant Available Virtually) is an AI-powered chatbot built using TensorFlow and NLTK. It offers personalized interactions based on user input, trained on a dataset of intents.*  
-  [GitHub Repository](https://github.com/Ananyaearth/AAAVI-chatbot-)
-
-- **Khwaab**  
-  *A community-focused project aimed at fostering collaboration and creative growth.*  
-  [GitHub Repository](https://github.com/Ananyaearth/Khwaab)
+- Ranked 186th in Kaggle’s "Detect AI vs Human-Generated Images"
+- Qualified GATE Data Science & AI (2024, 2025), GATE CS (2024, 2025), CEED (2024)
+- Solved 250+ problems on LeetCode and GeeksforGeeks
 
 ## 🌟 Fun Fact
 
-I enjoy exploring Marvel Comics in my free time and love creating AI-generated content related to superheroes.
+I’m a Marvel Comics fan and enjoy experimenting with AI-generated superhero content!
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
-- **Email**: [Your Email Address](ananyav2018@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ananya-verma-b1485b217/)
-- **GitHub**: [Your GitHub Profile](https://github.com/Ananyaearth)
+- **Email**: [ananyav2018@gmail.com](mailto:ananyav2018@gmail.com)
+- **LinkedIn**: [Ananya Verma](https://www.linkedin.com/in/ananya-verma-b1485b217/)
+- **GitHub**: [Ananyaearth](https://github.com/Ananyaearth)
 
 ---
 
-✨ Feel free to explore my repositories and connect with me. Let's collaborate and create something amazing!
+✨ Check out my repositories and let’s create something amazing together!
